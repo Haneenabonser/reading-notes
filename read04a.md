@@ -35,7 +35,7 @@ String Operators:
 
 There is just one string operator: the+ symbol. It is used to join the strings on either side of it. 
 
-We can also mix srings and numberes togather.
+We can also mix strings and numbers together.
 
 
 
