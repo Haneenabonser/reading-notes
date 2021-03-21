@@ -14,6 +14,7 @@
 |      Lab02a            |  [Growth Mindset](labo2a-markdownlearning.md)|
 |      Read03            |  [Structure web pages with HTML](read03.md)  |
 |      Read04a           |  [Programming with JavaScript](read04a.md)   |
+|      Read05            |  [Operators and Loops](read05.md)            |
 
 
 
