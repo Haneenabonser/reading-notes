@@ -15,7 +15,7 @@
 |      Read03            |  [Structure web pages with HTML](read03.md)  |
 |      Read04a           |  [Programming with JavaScript](read04a.md)   |
 |      Read05            |  [Operators and Loops](read05.md)            |
-|      Read06            |  [esign web pages with CSS](read06.md)       |
+|      Read06            |  [Design web pages with CSS](read06.md)       |
 
 
 
