@@ -25,7 +25,7 @@
 |       Assignment       |              Link                            |
 |------------------------|----------------------------------------------|
 |      Read01            |  [Introductory HTML and JavaScript](read01.md)|
-|      Read02            |  [](read02a.md)             |
+|      Read02            |  [Basics of HTML, CSS & JS](read02a.md)        |
 |      Read03            |  [](read02b.md)       |
 |      Read04            |  [](read03.md)  |
 |      Read05            |  [](read04a.md)   |
