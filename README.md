@@ -29,7 +29,7 @@
 |      Read03            |  [HTML Lists, Control Flow with JS, and the CSS Box Model](read02b.md)|
 |      Read04            |  [HTML Links, JS Functions, and Intro to CSS Layout](read03.md)  |
 |      Read05            |  [Images, Color, Text](read04a.md)   |
-|      Read06            |  [](read05.md)            |
+|      Read06            |  [Problem Domain, Objects, and the DOM](read05.md)            |
 |      Read07            |  [](read06.md)      |
 |      Read08            |  [](read06.md)      |
 |      Read09            |  [](read06.md)      |
