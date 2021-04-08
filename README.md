@@ -33,7 +33,7 @@
 |      Read07            |  [Object-Oriented Programming, HTML Tables](201/read07.md)      |
 |      Read08            |  [CSS Layout](201/read08.md)      |
 |      Read09            |  [Forms and JS Events](201/read09.md)      |
-|      Read10            |  [](read06.md)      |
+|      Read10            |  [Error Handling & Debugging](201/read10.md)      |
 |      Read11            |  [](read06.md)      |
 |      Read12            |  [](read06.md)      |
 |      Read13            |  [](read06.md)      |
