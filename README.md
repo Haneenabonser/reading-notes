@@ -35,7 +35,7 @@
 |      Read09            |  [Forms and JS Events](201/read09.md)      |
 |      Read10            |  [Error Handling & Debugging](201/read10.md)      |
 |      Read11            |  [Audio, Video, Images](201/read11.md)      |
-|      Read12            |  [](read06.md)      |
+|      Read12            |  [Chart.js, Canvas](201/read12.md)      |
 |      Read13            |  [](read06.md)      |
 |      Read14a           |  [](read06.md)      |
 |      Read14b           |  [](read06.md)      |
