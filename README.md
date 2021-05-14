@@ -1,10 +1,7 @@
+# Reading Notes
+This website contains a highlighted knowledge from different resources of code fellows software development course. 
 
-## Who am I?
-
-*I am Haneen Abonser,I am 24 years old civil engineer who graduated from the University of Jordan and passionate in programming.*
-
-
-## Code 102 Reading Notes 
+## Code 102 - Intro to Software Development
 
 |       Assignment       |              Link                            |
 |------------------------|----------------------------------------------|
@@ -20,7 +17,7 @@
 
 
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 |       Assignment       |              Link                            |
 |------------------------|----------------------------------------------|
@@ -41,4 +38,29 @@
 |      Read14            |  [What Google Learned About Teams](201/read14.md)      |
 
 
+## Code 301 - Intermediate Software Development
 
+|       Assignment       |              Link                            |
+|------------------------|----------------------------------------------|
+|      Read01            |  [](301/read01.md)|
+|      Read02            |  [](301/read02.md)        |
+|      Read03            |  [](301/read03.md)|
+|      Read04            |  [](301/read04.md)  |
+|      Read05            |  [](301/read05.md)   |
+|      Read06            |  [](301/read06.md)            |
+|      Read07            |  [](301/read07.md)      |
+|      Read08            |  [](301/read08.md)      |
+|      Read09            |  [](301/read09.md)      |
+|      Read10            |  [](301/read10.md)      |
+|      Read11            |  [](301/read11.md)      |
+|      Read12            |  [](301/read12.md)      |
+|      Read13            |  [](301/read13.md)      |
+|      Read13b           |  [](301/read13b.md)      |
+|      Read14            |  [](301/read14.md)      |
+
+## Code 401 - Advanced Software Development
+
+
+## Who am I?
+
+*I am Haneen Abonser,I am 24 years old civil engineer who graduated from the University of Jordan and passionate in programming.*
