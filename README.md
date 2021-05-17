@@ -42,8 +42,8 @@ This website contains a highlighted knowledge from different resources of code f
 
 |       Assignment       |              Link                            |
 |------------------------|----------------------------------------------|
-|      Read01            |  [State and Props](301/read01.md)|
-|      Read02            |  [](301/read02.md)        |
+|      Read01            |  [](301/read01.md)|
+|      Read02            |  [State and Props](301/read02.md)        |
 |      Read03            |  [](301/read03.md)|
 |      Read04            |  [](301/read04.md)  |
 |      Read05            |  [](301/read05.md)   |
