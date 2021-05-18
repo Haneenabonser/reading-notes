@@ -42,7 +42,7 @@ This website contains a highlighted knowledge from different resources of code f
 
 |       Assignment       |              Link                            |
 |------------------------|----------------------------------------------|
-|      Read01            |  [](301/read01.md)|
+|      Read01            |  [Introduction to React and Components](301/read01.md)|
 |      Read02            |  [State and Props](301/read02.md)        |
 |      Read03            |  [Passing Functions as Props](301/read03.md)|
 |      Read04            |  [](301/read04.md)  |

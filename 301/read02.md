@@ -16,3 +16,7 @@
 - The main differance between props and state; in props you passed into a component and is handeled inside that component, but state is handeld outside that component and must be updated outside.
 - We re-render our application when we change the state inside the application.
 - input elements, iside forms(checkbox and others).
+
+
+
+## Things I want to know more about

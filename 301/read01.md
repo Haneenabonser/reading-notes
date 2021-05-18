@@ -1,19 +1,36 @@
-## State and Props
+## Introduction to React and Components
 
-- Based off the diagram, the ‘render’ happens before the ‘componentDidMount’.
-- The very first thing to happen in the lifecycle of React is mounting, the componentWillMount() method is the first called in this phase.
-- These things will happen in this order:
-   1- constructor()
-   2- render()
-   3- componentDidMount()
-   4- React Updates
-   5- componentWillUnmount()
+**Component Based Architecture**
+- What is a component?
+    - Components are the building blocks of any React app, a component is a software object, intended to interact with other components, encapsulating certain functionality or a set of functionalities.
+- What are the charactistics of a component?
+    - Reusability 
+    - Replaceable 
+    - Not context specific 
+    - Extensible 
+    - Encapsulated 
+    - Independent 
+- What are the advantages of using component based architecture?
+    - Ease of deployment 
+    - Modification of technical complexity
+    - Reliability
 
-- componentDidMount is executed after the first render only on the client side, this is where AJAX requests and DOM or state updates should occur.
 
 
-- Types of things can you pass in the props can be any data type, from strings to functions, objects, etc.
-- The main differance between props and state; in props you passed into a component and is handeled inside that component, but state is handeld outside that component and must be updated outside.
-- We re-render our application when we change the state inside the application.
-- input elements, iside forms(checkbox and others).
+
+**What is Props and How to Use it in React**
+- What is props short for?
+    - It stands for properties, it is a special keyword in React used for passing data from one component to another.
+- How are props used in React?
+    - Defining attribute and data, with interpolation { }.
+    - Passing data using Props, like we pass arguments to a function.
+    - Rendering Props data.
+- What is the flow of props?
+    - uni-directional flow, one way from parent to child.
+
+
+
+
+## Things I want to know more about
+Surly I want to know more about Props. 
 

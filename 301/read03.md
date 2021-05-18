@@ -45,3 +45,6 @@
     - Using props.
 - How does the child component invoke a method that was passed to it from a parent component?
     - Create another function inside the child component.
+
+
+## Things I want to know more about
