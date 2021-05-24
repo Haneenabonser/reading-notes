@@ -48,7 +48,7 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read04            |  [React and Forms](301/read04.md)  |
 |      Read05            |  [Putting it all together](301/read05.md)   |
 |      Read06            |  [NODE.JS](301/read06.md)            |
-|      Read07            |  [](301/read07.md)      |
+|      Read07            |  [REST](301/read07.md)      |
 |      Read08            |  [](301/read08.md)      |
 |      Read09            |  [](301/read09.md)      |
 |      Read10            |  [](301/read10.md)      |
