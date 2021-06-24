@@ -59,6 +59,11 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read14            |  [](301/read14.md)      |
 
 ## Code 401 - Advanced Software Development
+|       Assignment       |              Link                            |
+|------------------------|----------------------------------------------|
+|      Read00            |  [Code 401: Advanced Javascript Development](401/read00.md)|
+|      Read01            |  [Node Ecosystem, TDD, CI/CD](401/read01.md)        |
+
 
 
 ## Who am I?
