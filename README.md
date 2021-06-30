@@ -54,9 +54,7 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read10            |  [In memory storage](301/read10.md)      |
 |      Read11            |  [Authentication](301/read11.md)      |
 |      Read12            |  [Mongo and Mongoose](301/read12.md)      |
-|      Read13            |  [](301/read13.md)      |
-|      Read13b           |  [](301/read13b.md)      |
-|      Read14            |  [](301/read14.md)      |
+
 
 ## Code 401 - Advanced Software Development                        
 
@@ -66,6 +64,8 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read01            |  [Node Ecosystem, TDD, CI/CD](401/read01.md)        |
 |      Read02            |  [Express](401/read02.md)        |
 |      Read03            |  [Express REST API](401/read03.md)        |
+|      Read04            |  [Data Modeling](401/read04.md)        |
+
 
 
 
