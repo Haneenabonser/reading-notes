@@ -65,6 +65,10 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read02            |  [Express](401/read02.md)        |
 |      Read03            |  [Express REST API](401/read03.md)        |
 |      Read04            |  [Data Modeling](401/read04.md)        |
+|      Read05            |  [Linked List](401/read05.md)        |
+|      Read06            |  [Authentication](401/read06.md)        |
+
+
 
 
 
