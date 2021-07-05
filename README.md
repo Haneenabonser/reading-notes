@@ -67,6 +67,8 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read04            |  [Data Modeling](401/read04.md)        |
 |      Read05            |  [Linked List](401/read05.md)        |
 |      Read06            |  [Authentication](401/read06.md)        |
+|      Read07            |  [Bearer Authorization](401/read07.md)        |
+
 
 
 
