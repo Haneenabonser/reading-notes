@@ -67,9 +67,11 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read04            |  [Data Modeling](401/read04.md)        |
 |      Read05            |  [Linked List](401/read05.md)        |
 |      Read06            |  [Authentication](401/read06.md)        |
-|      Read07            |  [Bearer Authorization](401/read07.md)        |
-|      Read08            |  [Access Control (ACL)](401/read08.md)        |
+|      Read07            |  [Bearer Authorization](401/read07.md)     |
+|      Read08            |  [Access Control (ACL)](401/read08.md)     |
 |      Read09            |  [SQL](401/read09.md)        |
+|      Read10            |  [Stacks and Queues](401/read10.md)        |
+
 
 
 
