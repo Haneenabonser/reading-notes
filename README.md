@@ -69,6 +69,8 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read06            |  [Authentication](401/read06.md)        |
 |      Read07            |  [Bearer Authorization](401/read07.md)        |
 |      Read08            |  [Access Control (ACL)](401/read08.md)        |
+|      Read09            |  [SQL](401/read09.md)        |
+
 
 
 
