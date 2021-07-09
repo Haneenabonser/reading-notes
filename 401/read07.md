@@ -24,3 +24,22 @@
 - API Endpoint: is a point at which an application program interface (API) -- the code that allows two software programs to communicate with each other -- connects with the software program.
 - Authorization Code: is an alphanumeric password that authorizes its user to purchase, sell or transfer items, or to enter information into a security-protected space.
 - Access Token: Access tokens are used in token-based authentication to allow an application to access an API. 
+
+### Preview
+>- Which 3 things had you heard about previously and now have better clarity on?
+>    - Bearer Token.
+>
+>- Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+>    - JWT
+>- What are you most excited about trying to implement or see how it works?
+>    - Using Json web token in and Bearer auth. 
+> prepration :
+> - What is JSON Web Token?
+>    - JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret.
+>- What is the JSON Web Token structure?
+>   - Header
+>    - Payload
+>    - Signature
+>- How do JSON Web Tokens work?
+>    - In authentication, when the user successfully logs in using their credentials, a JSON Web Token will be returned.
+>    - Whenever the user wants to access a protected route or resource, the user agent should send the JWT, typically in the Authorization header using the Bearer schema.
