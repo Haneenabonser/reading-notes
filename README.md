@@ -72,6 +72,8 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read09            |  [SQL](401/read09.md)        |
 |      Read10            |  [Stacks and Queues](401/read10.md)        |
 |      Read11            |  [Event Driven Applications](401/read11.md)        |
+|      Read12            |  [Socket.io](401/read12.md)        |
+
 
 
 
