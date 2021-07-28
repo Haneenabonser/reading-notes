@@ -76,6 +76,9 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read13            |  [Event Driven Architecture](401/read13.md)        |
 |      Read14            |  [Message Queues](401/read14.md)        |
 |      Read15            |  [Trees](401/read15.md)        |
+|      Read16            |  [AWS: Cloud Servers](401/read16.md)        |
+|      Read17            |  [AWS: S3 and Lambda](401/read17.md)        |
+|      Read18            |  [AWS: API, Dynamo and Lambda](401/read18.md)        |
 |      Read19            |  [AWS: Events](401/read19.md)        |
 
 
