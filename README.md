@@ -81,6 +81,12 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read18            |  [AWS: API, Dynamo and Lambda](401/read18.md)        |
 |      Read19            |  [AWS: Events](401/read19.md)        |
 |      Read26            |  [Component Based UI](401/read26.md)        |
+|      Read27            |  [Hook](401/read27.md)        |
+|      Read28            |  [Component Lifecycle](401/read28.md)        |
+|      Read29            |  [Advanced State with Reducers](401/read29.md)        |
+|      Read30            |  [Hash Tables](401/read30.md)        |
+|      Read31            |  [Context API](401/read31.md)        |
+
 
 
 
