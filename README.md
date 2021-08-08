@@ -80,6 +80,8 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read17            |  [AWS: S3 and Lambda](401/read17.md)        |
 |      Read18            |  [AWS: API, Dynamo and Lambda](401/read18.md)        |
 |      Read19            |  [AWS: Events](401/read19.md)        |
+|      Read26            |  [Component Based UI](401/read26.md)        |
+
 
 
 
