@@ -76,7 +76,18 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read13            |  [Event Driven Architecture](401/read13.md)        |
 |      Read14            |  [Message Queues](401/read14.md)        |
 |      Read15            |  [Trees](401/read15.md)        |
+|      Read16            |  [AWS: Cloud Servers](401/read16.md)        |
+|      Read17            |  [AWS: S3 and Lambda](401/read17.md)        |
+|      Read18            |  [AWS: API, Dynamo and Lambda](401/read18.md)        |
 |      Read19            |  [AWS: Events](401/read19.md)        |
+|      Read26            |  [Component Based UI](401/read26.md)        |
+|      Read27            |  [Hook](401/read27.md)        |
+|      Read28            |  [Component Lifecycle](401/read28.md)        |
+|      Read29            |  [Advanced State with Reducers](401/read29.md)        |
+|      Read30            |  [Hash Tables](401/read30.md)        |
+|      Read31            |  [Context API](401/read31.md)        |
+
+
 
 
 
