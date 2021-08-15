@@ -86,6 +86,8 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read29            |  [Advanced State with Reducers](401/read29.md)        |
 |      Read30            |  [Hash Tables](401/read30.md)        |
 |      Read31            |  [Context API](401/read31.md)        |
+|      Read32            |  [Context API - Behaviors](401/read32.md)        |
+
 
 
 
