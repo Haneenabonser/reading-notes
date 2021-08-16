@@ -87,6 +87,8 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read30            |  [Hash Tables](401/read30.md)        |
 |      Read31            |  [Context API](401/read31.md)        |
 |      Read32            |  [Context API - Behaviors](401/read32.md)        |
+|      Read33            |  [\<Login /\> and \<Auth /\>](401/read33.md)        |
+
 
 
 
