@@ -91,7 +91,12 @@ This website contains a highlighted knowledge from different resources of code f
 |      Read34            |  [API Integration](401/read34.md)        |
 |      Read35            |  [Graphs](401/read35.md)        |
 |      Read36            |  [Application State with Redux](401/read36.md)        |
-
+|      Read37            |  [Redux - Combined Reducers](401/read37.md)        |
+|      Read38            |  [Graphs](401/read38.md)        |
+|      Read39            |  [Graphs](401/read39.md)        |
+|      Read40            |  [Graphs](401/read40.md)        |
+|      Read41            |  [Graphs](401/read41.md)        |
+|      Read42            |  [Graphs](401/read42.md)        |
 
 
 
